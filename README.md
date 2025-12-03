@@ -9,8 +9,7 @@ A comprehensive **Banking Data EDA Dashboard** built with [Streamlit](https://st
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Deployment](#deployment)
-- [Contact](#contact)
+
 
 ## Overview
 The Banking Data EDA Dashboard is designed for data analysts, marketing teams, and banking professionals to explore and gain insights from banking campaign data. Users can upload a CSV file (e.g., `bank-full.csv`) and apply interactive filters to analyze customer demographics, financial behaviors, campaign outcomes, and temporal patterns. The dashboard provides real-time KPIs, detailed visualizations, statistical tests, and data export options for further analysis.

@@ -106,8 +106,3 @@ The dashboard supports a CSV file (e.g., `bank-full.csv`) with the following req
 
 The dataset should be in CSV format with a semicolon (`;`) delimiter and must include these columns for full functionality.
 
-## Deployment
-This dashboard is deployed using [Streamlit Community Cloud](https://streamlit.io/cloud). Access the live app at [Banking Data EDA Dashboard](https://banking-dashboard-avaz-asgarov.streamlit.app/). The deployment is managed from the GitHub repository `streamlit-banking-dashboard`, requiring only the Python script (`banking_eda_dashboard.py`) and `requirements.txt`.
-
-## Contact
-For any questions or suggestions, please open an issue in the [GitHub repository](https://github.com/AvazAsgarov/streamlit-banking-dashboard) or connect with me on LinkedIn: **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**.
